@@ -1,0 +1,4 @@
+venv
+.aider
+.DS_Store
+data/PH_Adm2_ProvDists.shp.zip
